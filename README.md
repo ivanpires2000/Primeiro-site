@@ -1,6 +1,6 @@
 # Peimeiro site
 
-![preview](./.github/preview.png)
+![preview](./.github/preview.PNG)
 
 > Primeiro site
 

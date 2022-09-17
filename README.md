@@ -1,4 +1,4 @@
-# Peimeiro site
+# Primeiro site
 
 ![preview](./.github/preview.PNG)
 

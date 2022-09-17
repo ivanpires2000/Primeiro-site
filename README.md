@@ -6,7 +6,7 @@
 
 Projeto de construção de um site de portifólio
 
-[Clique aqui para acessar](https://ivanpires2000.github.io/Primeiro-site/)
+[Clique aqui para acessar](https://ivanpires2000.github.io/Primeiro-site)
 
 ## Tecnologias
 
